@@ -6,7 +6,7 @@ Koyuki
 */
 
 body{
-	background-image:url('https://xiaobapi.top/api/xb/api/gcmm.php?type=1');//将此处替换为你自己的背景图api地址
+	background-image:url('http://ld.frp.one:27777');//将此处替换为你自己的背景图api地址
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-attachment: fixed;
@@ -118,7 +118,7 @@ body{
     position: absolute;
     left: 0;
     bottom: 0;
-    background: url(https://i.postimg.cc/dQHNpS7P/img-hennyano-body.png) left bottom/contain no-repeat
+    background: url(https://pic1.imgdb.cn/item/67a1a797d0e0a243d4fbc312.png) left bottom/contain no-repeat
 }
 .sw-Hennnyano .eyes {
     width: 100%;
@@ -126,7 +126,7 @@ body{
     position: absolute;
     left: 0;
     bottom: 0;
-    background: url(https://i.postimg.cc/x84smcrT/img-hennyano-eyes.png) left bottom/contain no-repeat
+    background: url(https://pic1.imgdb.cn/item/67a1a7a2d0e0a243d4fbc314.png) left bottom/contain no-repeat
 }
 
 @media(any-hover: hover) {
